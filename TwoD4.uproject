@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{BFF398F7-4753-EB63-C42D-CF90F73EC2F2}",
+	"EngineAssociation": "4.26",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "CustomInputModeGameOnly",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f138ff0ffa434737bb687bbdcb79ad98"
+		}
+	]
 }
